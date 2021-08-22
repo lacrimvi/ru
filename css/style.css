@@ -716,6 +716,11 @@ a.btn-mod:focus{
 	text-align: center;
 }
 
+@media(max-width:480px) {
+	.home-section {
+		background-position: left center;
+	}
+}
 
 /* Home content */
 
